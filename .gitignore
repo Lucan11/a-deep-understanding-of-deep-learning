@@ -136,3 +136,4 @@ share/
 .idea/
 pyvenv.cfg
 
+/emnist/EMNIST/raw/
