@@ -137,3 +137,4 @@ share/
 pyvenv.cfg
 
 /emnist/EMNIST/raw/
+/CFAR/
